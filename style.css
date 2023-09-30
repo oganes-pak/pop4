@@ -571,6 +571,9 @@ font-family: 'Montserrat', 'Montserrat', sans-serif;
 }
 
 @media print {
+    .rub228 {
+        max-width: 900px;
+    }
     .scrollable-container {
         top: 0px;
         left: 15px;
