@@ -37,12 +37,26 @@ body {
     font-size: 50px;
     text-align: center;
 }
+.rub228 {
+    font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    text-align: justify;
+    max-width: 559px;
+}
 
 .rub {
     font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
     font-weight: 900;
     font-size: 26px;
     text-align: center;
+}
+.rub2281 {
+    font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-align:left;
+    max-width: 559px;
 }
 
 .rub1 {
@@ -63,9 +77,17 @@ body {
     font-family: 'Montserrat', 'Montserrat', sans-serif;
     font-size: 16px;
     width: 300px;
+    text-align:center;
 
 }
-
+.viir{
+font-family: 'Montserrat', 'Montserrat', sans-serif;
+font-size: 20px;
+width: 300px;
+font-weight: 700;
+text-align: justify;
+font-family: 'Montserrat', 'Montserrat', sans-serif;
+}
 .dsa {
     font-family: 'Montserrat', 'Montserrat', sans-serif;
     font-size: 16px;
@@ -75,17 +97,13 @@ body {
 }
 
 .scrollable-container {
-    width: 550px;
-
-    height: 300px;
-
+    width: 55px;
+    height: 30px;
     overflow: auto;
     width: 550px;
     height: 170px;
     background-color: #f98c08;
-
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-
     border: 1px solid #ccc;
     padding: 10px;
     color: rgb(255, 255, 255);
@@ -100,8 +118,8 @@ body {
 }
 
 .scrollable-content {
-    width: 100%;
-    height: 100%;
+    width: 1000px;
+    height: 10px;
 }
 
 .scrollable-container1 {
@@ -139,7 +157,7 @@ body {
     overflow: auto;
 
     width: 600x;
-    height: 590px;
+    height: 615px;
     background-color: #f98c08;
 
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
@@ -172,7 +190,7 @@ body {
     overflow: auto;
 
     width: 470x;
-    height: 419px;
+    height: 375px;
     background-color: #f98c08;
 
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
@@ -204,7 +222,7 @@ body {
     overflow: auto;
 
     width: 470x;
-    height: 740px;
+    height: 540px;
     background-color: #f98c08;
 
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
@@ -236,7 +254,7 @@ body {
     overflow: auto;
 
     width: 470x;
-    height: 220px;
+    height: 140px;
     background-color: #f98c08;
 
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
@@ -423,20 +441,48 @@ body {
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.rub22811 {
+    font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+    font-weight: 520;
+    font-size: 21px;
+    text-align:left;
+    max-width: 559px;
+}
+
 
 @media (max-width: 600px) {
-    ol {
-        margin-left: 0px;
-        padding-left: 12px;
+    ul {
+        margin-left: 10px;
+        padding-left: 10px;
     }
-
+    .rub12 {
+        font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+        font-weight: 700;
+        font-size: 20px;
+        text-align: center;
+    }
     .scrollable-container {
         top: 0px;
         left: 15px;
         width: 320px;
         height: 280px;
+        
+        
     }
-
+    .rub22811 {
+        font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+        font-weight: 520;
+        font-size: 21px;
+        text-align:left;
+        max-width: 559px;
+    }
+    .rub228 {
+        font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
+        font-weight: 200;
+        font-size: 16px;
+        text-align: justify;
+        max-width: 320px;
+    }
     .eye1 {
         top: 485px;
         left: 90px;
@@ -458,11 +504,11 @@ body {
         top: 500px;
         left: 15px;
         width: 320px;
-        height: 620px;
+        height: 790px;
     }
 
     .eye3 {
-        top: 890px;
+        top: 1059px;
         left: 4px;
     }
 
@@ -470,11 +516,12 @@ body {
         top: 740px;
         left: 15px;
         width: 320px;
-        height: 700px;
+        height: 560px;
+        
     }
 
     .eye4 {
-        top: 980px;
+        top: 835px;
         left: 4px;
     }
 
@@ -482,7 +529,7 @@ body {
         top: 1010px;
         left: 15px;
         width: 320px;
-        height: 950px;
+        height: 900px;
     }
 
     .eye5 {
@@ -494,7 +541,7 @@ body {
         top: 1030px;
         left: 15px;
         width: 320px;
-        height: 235px;
+        height: 180px;
     }
 
     .scrollable-container6 {
@@ -507,7 +554,7 @@ body {
     .rub12 {
         font-family: 'Montserrat bold', 'Montserrat bold', sans-serif;
         font-weight: 700;
-        font-size: 35px;
+        font-size: 40px;
         text-align: center;
     }
 
